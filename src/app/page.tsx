@@ -45,7 +45,7 @@ export default function LoginPage() {
           <div className="mx-auto bg-primary text-primary-foreground rounded-full p-3 w-fit mb-4">
             <GraduationCap size={48} />
           </div>
-          <CardTitle className="text-3xl font-headline">Welcome to Emma's EduVenture!</CardTitle>
+          <CardTitle className="text-3xl font-headline">Welcome to Emma Grace's Adventure!</CardTitle>
           <CardDescription className="text-md">Let's start your learning journey!</CardDescription>
         </CardHeader>
         <CardContent>
