@@ -7,7 +7,7 @@ const AppHeader = () => {
       <div className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/dashboard" className="flex items-center gap-2">
           <GraduationCap size={32} />
-          <h1 className="text-2xl font-headline font-bold">Emma's EduVenture</h1>
+          <h1 className="text-2xl font-headline font-bold">Emma Grace's Adventure</h1>
         </Link>
         {/* Navigation items can be added here if needed */}
       </div>
